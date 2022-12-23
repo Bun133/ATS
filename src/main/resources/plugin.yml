@@ -1,0 +1,7 @@
+name: ATS
+version: '${project.version}'
+main: com.github.bun133.ats.Ats
+api-version: 1.19
+commands:
+  light:
+    description: Light Place Toggle Command
